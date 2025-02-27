@@ -1,0 +1,3 @@
+lib/mysql-connector-j-8.0.33.jar
+connectors/connector-cdc-mysql-2.3.9.jar
+connectors/connector-starrocks-2.3.9.jar
