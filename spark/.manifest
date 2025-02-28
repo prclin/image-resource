@@ -2,3 +2,4 @@ spark-2.4.8-bin-hadoop2.7.tgz
 jars/aws-java-sdk-1.7.4.jar
 jars/hadoop-aws-2.7.3.jar
 jars/mysql-connector-j-8.0.33.jar
+jars/spark-excel_2.11-0.13.7.jar
